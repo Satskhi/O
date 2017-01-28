@@ -1,0 +1,177 @@
+.item {
+	border: 1px solid #999;
+	box-shadow: 0px 0px 8px #aaaaaa;
+	border-radius: 5px;
+	width: 130px;
+	float: left;
+	margin: 3px;
+	padding: 3px;
+	background: #fbfaf9;
+}  
+p {
+	text-align: center;
+}	
+p:hover {
+    font-style: oblique;
+}	
+.emote	{
+	height: 100px;
+	width: 100px;
+	margin: auto;
+}
+.edt {
+    background: url(https://rawgit.com/TheStrangerGuy/EDT/master/images/EDT-Logo.png) no-repeat center center;
+}
+.edtmini {
+    background: url(https://i.imgur.com/9JR4xqX.png) no-repeat center center;
+}
+.edt2 {
+    background: url(https://i.imgur.com/DBtr6Tr.png) no-repeat center center;
+}
+.chuck {
+    background: url(https://i.imgur.com/nw0CkZA.gif) no-repeat center center;
+}
+.satskhi {
+    background: url(https://i.imgur.com/bTXR2HA.png) no-repeat center center;
+}
+.hatsune {
+    background: url(https://i.imgur.com/7c2rZBi.gif) no-repeat center center;
+}
+.djsona {
+    background: url(https://i.imgur.com/p9j9onO.gif) no-repeat center center;
+}
+.tosaindo {
+    background: url(https://i.imgur.com/X5ovb1Y.gif) no-repeat center center;
+}
+.tom {
+    background: url(https://i.imgur.com/tPX2arb.png) no-repeat center center;
+}
+.100% {
+    background: url(https://i.imgur.com/tHMZV3i.png) no-repeat center center;
+}
+.0% {
+    background: url(https://i.imgur.com/Y0DnYA9.png) no-repeat center center;
+}
+.aidento {
+    background: url(https://i.imgur.com/rpUfLUf.jpg) no-repeat center center;
+}
+.doge {
+    background: url(https://i.imgur.com/cZmTfyu.jpg) no-repeat center center;
+}
+.meobrigue {
+    background: url(https://i.imgur.com/npQEJRM.png) no-repeat center center;
+}
+.querocafe {
+    background: url(httsp://i.imgur.com/gnstslS.png) no-repeat center center;
+}
+.fdc {
+    background: url(https://i.imgur.com/R6GuQg4.gif) no-repeat center center;
+}
+.iamhappykaboom {
+    background: url(https://i.imgur.com/xeLnB88.gif) no-repeat center center;
+}
+.aah {
+    background: url(https://i.imgur.com/VkOZgog.gif) no-repeat center center;
+}
+.catdance {
+    background: url(https://i.imgur.com/8Xjb1xq.gif) no-repeat center center;
+}
+.sexyhorse {
+    background: url(https://i.imgur.com/9muxnlD.gif) no-repeat center center;
+}
+.datass {
+    background: url(https://i.imgur.com/09i8DKw.png) no-repeat center center;
+}
+.runbitchrun {
+    background: url(https://i.imgur.com/u4V5Rw0.gif) no-repeat center center;
+}
+.mexitroll {
+    background: url(https://i.imgur.com/T8A3T0Z.gif) no-repeat center center;
+}
+.shoopda {
+    background: url(https://i.imgur.com/j4KnRBU.gif) no-repeat center center;
+}
+.loveluv {
+    background: url(https://i.imgur.com/hZ6FOqb.gif) no-repeat center center;
+}
+.nuclearboom {
+    background: url(https://i.imgur.com/6dKb8in.gif) no-repeat center center;
+}
+.mew {
+    background: url(https://i.imgur.com/dota3wn.gif) no-repeat center center;
+}
+.dancebean {
+    background: url(https://i.imgur.com/RTZJpG4.gif) no-repeat center center;
+}
+.omgcry {
+    background: url(https://i.imgur.com/p3N3QvR.gif) no-repeat center center;
+}
+.llamastare {
+    background: url(https://i.imgur.com/CkqmNRc.gif) no-repeat center center;
+}
+.epicclap {
+    background: url(https://i.imgur.com/X92kAVi.gif) no-repeat center center;
+}
+.motherofgod {
+    background: url(https://i.imgur.com/nhtt6Vw.gif) no-repeat center center;
+}
+.hmmm {
+    background: url(https://i.imgur.com/3x8CVgf.gif) no-repeat center center;
+}
+.rickrolld {
+    background: url(https://i.imgur.com/YnyyrFx.gif) no-repeat center center;
+}
+.correrichard {
+    background: url(https://i.imgur.com/NoBSWD5.gif) no-repeat center center;
+}
+.plasmacannon {
+    background: url(https://i.imgur.com/GVYv6tj.gif) no-repeat center center;
+}
+.pacv {
+    background: url(https://i.imgur.com/sZQMJRh.png) no-repeat center center;
+}
+.pacv {
+    background: url(https://i.imgur.com/O69bOJf.png) no-repeat center center;
+}
+.mms {
+    background: url(https://i.gyazo.com/31bb21757d5c981a97d573fd009c00af.png) no-repeat center center;
+}
+.tacodance {
+    background: url(https://i.imgur.com/aMrae4z.gif) no-repeat center center;
+}
+.partyhard {
+    background: url(https://i.imgur.com/yk2HKzf.gif) no-repeat center center;
+}
+.huegif {
+    background: url(https://media.giphy.com/media/QJseZ5qyVbT4Q/giphy.gif) no-repeat center center;
+}
+.watgif {
+    background: url(https://i.imgur.com/U1kciVw.gif) no-repeat center center;
+}
+.watingif {
+    background: url(https://i.imgur.com/hd6J9rl.gif) no-repeat center center;
+}
+.dhpandabro {
+    background: url(https://i.gyazo.com/87156e3d8876bf07aecf57a08a458831.png) no-repeat center center;
+}
+.alan_walker {
+    background: url(https://i.imgur.com/zRjfax2.png?1) no-repeat center center;
+}
+.facepalmgif {
+    background: url(http://i.imgur.com/AHrMuv6.gif?1) no-repeat center center;
+}
+.ragegif {
+    background: url(https://i.imgur.com/oT12Y0B.gif) no-repeat center center;
+}
+.kappagif {
+    background: url(https://i.imgur.com/F6nWB7M.gif) no-repeat center center;
+}
+.kreygasmgif {
+    background: url(http://i.imgur.com/Ym7LGUx.gif) no-repeat center center;
+}
+.lindsey_stirling {
+    background: url(http://i.imgur.com/pxTKatv.png?1) no-repeat center center;
+}
+.triggeredd {
+    background: url(https://i.imgur.com/P62r5Kd.jpg) no-repeat center center;
+}
