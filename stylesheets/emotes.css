@@ -6,7 +6,7 @@
 	float: left;
 	margin: 3px;
 	padding: 3px;
-	background: #fbfaf9;
+	background: rgba(212, 23, 119, 0.3);
 }  
 p {
 	text-align: center;
@@ -46,10 +46,10 @@ p:hover {
 .tom {
     background: url(https://i.imgur.com/tPX2arb.png) no-repeat center center;
 }
-.100% {
+.100 {
     background: url(https://i.imgur.com/tHMZV3i.png) no-repeat center center;
 }
-.0% {
+.0 {
     background: url(https://i.imgur.com/Y0DnYA9.png) no-repeat center center;
 }
 .aidento {
@@ -130,7 +130,7 @@ p:hover {
 .pacv {
     background: url(https://i.imgur.com/sZQMJRh.png) no-repeat center center;
 }
-.pacv {
+.boop {
     background: url(https://i.imgur.com/O69bOJf.png) no-repeat center center;
 }
 .mms {
