@@ -19,6 +19,10 @@ p:hover {
 	width: 100px;
 	margin: auto;
 }
+.tmjabiraca {
+    background: url(http://i.imgur.com/zHkFWdK.gif) no-repeat center center;
+	background-size: 100%;
+}
 .edt {
     background: url(https://rawgit.com/TheStrangerGuy/EDT/master/images/EDT-Logo.png) no-repeat center center;
 	background-size: 100%;
