@@ -19,8 +19,12 @@ p:hover {
 	width: 100px;
 	margin: auto;
 }
+.hamsterspy {
+    background: url(https://i.imgur.com/EgUqmwH.gif?1) no-repeat center center;
+	background-size: 100%;
+}
 .tmjabiraca {
-    background: url(http://i.imgur.com/zHkFWdK.gif) no-repeat center center;
+    background: url(https://i.imgur.com/zHkFWdK.gif) no-repeat center center;
 	background-size: 100%;
 }
 .edt {
