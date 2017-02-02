@@ -19,6 +19,10 @@ p:hover {
 	width: 100px;
 	margin: auto;
 }
+.approves {
+    background: url(https://i.imgur.com/2DiQrDa.gif?1) no-repeat center center;
+	background-size: 100%;
+}
 .hamsterspy {
     background: url(https://i.imgur.com/EgUqmwH.gif?1) no-repeat center center;
 	background-size: 100%;
