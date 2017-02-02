@@ -19,6 +19,10 @@ p:hover {
 	width: 100px;
 	margin: auto;
 }
+.damn {
+    background: url(https://i.imgur.com/U4Rm1We.gif?1) no-repeat center center;
+	background-size: 100%;
+}
 .approves {
     background: url(https://i.imgur.com/2DiQrDa.gif?1) no-repeat center center;
 	background-size: 100%;
