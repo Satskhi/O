@@ -19,6 +19,10 @@ p:hover {
 	width: 100px;
 	margin: auto;
 }
+.sanicgif {
+    background: url(http://i.imgur.com/Ir78PMf.gif) no-repeat center center;
+	background-size: 100%;
+}
 .thinking_about {
     background: url(https://i.imgur.com/h0wCdgF.png?1) no-repeat center center;
 	background-size: 100%;
